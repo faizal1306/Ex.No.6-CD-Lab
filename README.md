@@ -1,8 +1,7 @@
 # Ex.No:6
 # IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-## Name: Mohamed Faizal M
 ## Register Number : 212223243002
-## Date:
+## Date:07.05.20225
 ## AIM:
 To write a program to implement the back end of the compiler.
 ## ALGORITHM:
